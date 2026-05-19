@@ -767,14 +767,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"smallConference1"
+                         "value":"https:\/\/vdo.ninja\/?room=boardroom_alpha"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteWidth",
                          "type":"string",
-                         "value":"onaction"
+                         "value":"30"
                         }],
                  "rotation":0,
                  "type":"area",
