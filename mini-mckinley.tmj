@@ -763,18 +763,23 @@
                 {
                  "height":98,
                  "id":27,
-                 "name":"smallConference1",
+                 "name":"Small Conference Room",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/vdo.ninja\/?room=boardroom_alpha"
+                         "value":"https:\/\/vdo.ninja\/?room=small_conference"
                         }, 
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"camera; microphone; display-capture; autoplay; fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -787,6 +792,39 @@
                  "width":319,
                  "x":608,
                  "y":286
+                }, 
+                {
+                 "height":352.666666666667,
+                 "id":33,
+                 "name":"Big Conference Room",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/vdo.ninja\/?room=big_conference"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"camera; microphone; display-capture; autoplay; fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"30"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":162,
+                 "x":2688,
+                 "y":704
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -946,7 +984,7 @@
          "y":0
         }],
  "nextlayerid":76,
- "nextobjectid":33,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
