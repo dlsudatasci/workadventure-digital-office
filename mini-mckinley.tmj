@@ -772,6 +772,11 @@
                          "value":"https:\/\/vdo.ninja\/?room=boardroom_alpha"
                         }, 
                         {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"camera; microphone; display-capture; autoplay; fullscreen"
+                        }, 
+                        {
                          "name":"openWebsiteWidth",
                          "type":"string",
                          "value":"30"
