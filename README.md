@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdlsudatasci%2Fupptime-status-tracker%2Fmaster%2Fapi%2Fdigital-office-server%2Fuptime.json" align="absmiddle" alt="Uptime"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdlsudatasci%2Fupptime-status-tracker%2Fmaster%2Fapi%2Fdigital-office-server%2Fresponse-time.json" align="absmiddle" alt="response time"> *(Our server status is automatically checked every 5 minutes).*
 
-**Mini Mckinley is HXIL and ALTDSI's first ever web-based digital office proudly hosted on the ALTDSI server.**
+**Welcome to Mini Mckinley, HXIL and ALTDSI's first ever web-based digital office proudly hosted on the ALTDSI server.**
 
 ### 🚀 Key Features
 
