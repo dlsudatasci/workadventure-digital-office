@@ -4,7 +4,7 @@
 &emsp; 
 <a href="https://workadventu.re"><img src="https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge" align="absmiddle" alt="Powered by WorkAdventure"></a><a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled-FF5733?style=for-the-badge" align="absmiddle" alt="Tiled"></a><a href="https://vdo.ninja/"><img src="https://img.shields.io/badge/VDO.Ninja-005B94?style=for-the-badge" align="absmiddle" alt="VDO.Ninja"></a>
 
-<a href="https://stats.uptimerobot.com/R4ob5Zv0gB/803113206"><img src="https://img.shields.io/uptimerobot/status/m803113206-a287cf8098fd27fd9f3f0c24?label=live%20status" align="absmiddle" alt="Live Status"></a> *(Our server status is automatically checked every 5 minutes. Click on the button for more details).*
+<a href="https://stats.uptimerobot.com/R4ob5Zv0gB/803113206"><img src="https://img.shields.io/uptimerobot/status/m803113206-a287cf8098fd27fd9f3f0c24?label=live%20status" align="absmiddle" alt="Live Status"></a> *(Our server status is automatically checked every 5 minutes. Click on the badge for more details).*
 
 **Welcome to Mini Mckinley, HXIL and ALTDSI's first ever web-based digital office proudly hosted on the ALTDSI server.**
 
