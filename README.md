@@ -1,6 +1,6 @@
 # 🏢 Mini Mckinley Digital Office
 
-<a href="https://wa.altdsi.com"><img src="https://img.shields.io/badge/Enter%20Digital%20Office-wa.altdsi.com-2ea44f?style=for-the-badge" align="absmiddle" alt="Access Office"></a> 
+<a href="https://wa.altdsi.com/_/global/altdsi.com/workadventure-digital-office/mini-mckinley.tmj"><img src="https://img.shields.io/badge/Enter%20Digital%20Office-wa.altdsi.com-2ea44f?style=for-the-badge" align="absmiddle" alt="Access Office"></a> 
 &emsp; 
 <a href="https://workadventu.re"><img src="https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge" align="absmiddle" alt="Powered by WorkAdventure"></a><img src="https://img.shields.io/badge/%20and%20-555555?style=for-the-badge" align="absmiddle"><a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled-FF5733?style=for-the-badge" align="absmiddle" alt="Tiled"></a>
 
@@ -15,6 +15,9 @@
 * 💬 **Seamless Communication** — Built-in support for proximity-based audio/video calls, presentations, and localized chat spaces.
 
 ### 🕹️ Controls
+
+* **Movement:** Use <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> or the <kbd>Arrow Keys</kbd> to walk around the office.
+* **Sprint:** Hold <kbd>Shift</kbd> to run faster.
 
 
 ---
