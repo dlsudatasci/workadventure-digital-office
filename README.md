@@ -2,7 +2,7 @@
 
 <a href="https://wa.altdsi.com/_/global/altdsi.com/workadventure-digital-office/mini-mckinley.tmj"><img src="https://img.shields.io/badge/Enter%20Digital%20Office-wa.altdsi.com-2ea44f?style=for-the-badge" align="absmiddle" alt="Access Office"></a> 
 &emsp; 
-<a href="https://workadventu.re"><img src="https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge" align="absmiddle" alt="Powered by WorkAdventure"></a><img src="https://img.shields.io/badge/%20and%20-555555?style=for-the-badge" align="absmiddle"><a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled-FF5733?style=for-the-badge" align="absmiddle" alt="Tiled"></a>
+<a href="https://workadventu.re"><img src="https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge" align="absmiddle" alt="Powered by WorkAdventure"></a><a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled-FF5733?style=for-the-badge" align="absmiddle" alt="Tiled"></a><a href="https://vdo.ninja/"><img src="https://img.shields.io/badge/VDO.Ninja-005B94?style=for-the-badge" align="absmiddle" alt="VDO.Ninja"></a>
 
 <a href="https://stats.uptimerobot.com/R4ob5Zv0gB/803113206"><img src="https://img.shields.io/uptimerobot/status/m803113206-a287cf8098fd27fd9f3f0c24?label=live%20status" align="absmiddle" alt="Live Status"></a> *(Our server status is automatically checked every 5 minutes. Click on the button for more details).*
 
@@ -28,7 +28,7 @@
 
 ### 🔊 Proximity Communication
 
-* 🔊 **Proximity-Based Connection** — Walk up to anyone, and a bubble will automaticall open to connect your audio and video seamlessly.
+* 🔊 **Proximity-Based Connection** — Walk up to anyone, and a bubble will automatically open to connect your audio and video seamlessly.
 * 👨‍👩‍👧‍👦 **Group Conversations** — Gather up to **4 people** in a single bubble to chat natively at the same time.
 * 🖥️ **Impromptu Desk-side Reviews** — Click on the **screen share button** for quick, spontaneous collaboration within your bubble.
 * 🔒 **Lock your conversation** — Click on the **lock conversation button** to prevent others from joining your bubble.
