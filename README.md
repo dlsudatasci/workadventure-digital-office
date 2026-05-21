@@ -16,9 +16,15 @@
 
 ### 🕹️ Controls
 
-* **Movement:** Use <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> or the <kbd>Arrow Keys</kbd> to walk around the office.
-* **Sprint:** Hold <kbd>Shift</kbd> to run faster.
-
+| Action | Input / Keys |
+| :--- | :--- |
+| **Movement** | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> &nbsp;or&nbsp; <kbd>▲</kbd> <kbd>◀</kbd> <kbd>▼</kbd> <kbd>▶</kbd> |
+| **Sprint** | Hold <kbd>Shift</kbd> to run faster |
+| **Return to your desk** | <kbd>Shift</kbd> + <kbd>D</kbd> **(COMING SOON)** |
+| **Interface** | Press <kbd>C</kbd> to open chat or <kbd>U</kbd> to open user list |
+| **Open Say Popup** | <kbd>Enter</kbd> |
+| **Open Think Popup** | <kbd>Ctrl</kbd> + <kbd>Enter</kbd> |
+| **Emotes** | <kbd>1</kbd> to <kbd>6</kbd> for assigned emotes|
 
 ---
 
