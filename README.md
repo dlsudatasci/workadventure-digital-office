@@ -26,6 +26,13 @@
 | **Open Think Popup** | <kbd>Ctrl</kbd> + <kbd>Enter</kbd> |
 | **Emotes** | <kbd>1</kbd> to <kbd>6</kbd> for assigned emotes|
 
+### 🔊 3. Proximity Communication
+
+* 🔊 **Proximity-Based Connection** — Walk up to anyone, and a bubble will automaticall open to connect your audio and video seamlessly.
+* 👨‍👩‍👧‍👦 **Group Conversations** — Gather up to **4 people** in a single bubble to chat natively at the same time.
+* 🖥️ **Impromptu Desk-side Reviews** — Click on the **screen share button** for quick, spontaneous collaboration within your bubble.
+* 🔒 **Lock your conversation** — Click on the **lock conversation button** to prevent others from joining your bubble.
+
 ---
 
 To report bugs or post suggestions, please create a new issue here: [<kbd>&nbsp;Go to Issues&nbsp;</kbd>](https://github.com/dlsudatasci/workadventure-digital-office/issues) and give it either the <img src="https://img.shields.io/badge/bug-d73a49?style=flat-square" align="absmiddle" alt="bug"> or <img src="https://img.shields.io/badge/suggestion-e6912f?style=flat-square" align="absmiddle" alt="suggestion"> label.
