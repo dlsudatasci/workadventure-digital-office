@@ -2,7 +2,7 @@
 
 [![Access Office](https://img.shields.io/badge/Enter%20Digital%20Office-wa.altdsi.com-2ea44f?style=for-the-badge)](https://wa.altdsi.com) &emsp; [![Powered by WorkAdventure](https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge)](https://workadventu.re)
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdlsudatasci%2Fupptime-status-tracker%2Fmaster%2Fapi%2Fdigital-office-server%2Fuptime.json" align="absmiddle" alt="Uptime"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdlsudatasci%2Fupptime-status-tracker%2Fmaster%2Fapi%2Fdigital-office-server%2Fresponse-time.json" align="absmiddle" alt="response time"> *(Our server status is automatically checked every 5 minutes).*
+<a href="https://stats.uptimerobot.com/R4ob5Zv0gB"><img src="https://img.shields.io/uptimerobot/status/m803113206-a287cf8098fd27fd9f3f0c24?label=live%20status" align="absmiddle" alt="Live Status"></a> *(Our server status is automatically checked every 5 minutes. Click on the status button for more details).*
 
 **Welcome to Mini Mckinley, HXIL and ALTDSI's first ever web-based digital office proudly hosted on the ALTDSI server.**
 
