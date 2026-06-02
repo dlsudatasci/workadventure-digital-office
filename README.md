@@ -2,7 +2,8 @@
 
 <a href="https://wa.altdsi.com/_/global/altdsi.com/workadventure-digital-office/mini-mckinley.tmj"><img src="https://img.shields.io/badge/Enter%20Digital%20Office-wa.altdsi.com-2ea44f?style=for-the-badge" align="absmiddle" alt="Access Office"></a> 
 &emsp; 
-<a href="https://workadventu.re"><img src="https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge" align="absmiddle" alt="Powered by WorkAdventure"></a><a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled-FF5733?style=for-the-badge" align="absmiddle" alt="Tiled"></a><a href="https://vdo.ninja/"><img src="https://img.shields.io/badge/VDO.Ninja-005B94?style=for-the-badge" align="absmiddle" alt="VDO.Ninja"></a>
+<a href="https://workadventu.re"><img src="https://img.shields.io/badge/Powered%20by-WorkAdventure-8A2BE2?style=for-the-badge" align="absmiddle" alt="Powered by WorkAdventure"></a><a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled-FF5733?style=for-the-badge" align="absmiddle" alt="Tiled"></a><a href="https://vdo.ninja/"><img src="https://img.shields.io/badge/VDO.Ninja-005B94?style=for-the-badge" align="absmiddle" alt="VDO.Ninja"></a><a href="https://tally.so"><img src="https://img.shields.io/badge/Tally-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff&logoColor=000000" align="absmiddle" alt="Tally.so"></a>
+
 
 <a href="https://stats.uptimerobot.com/R4ob5Zv0gB/803113206"><img src="https://img.shields.io/uptimerobot/status/m803113206-a287cf8098fd27fd9f3f0c24?label=live%20status" align="absmiddle" alt="Live Status"></a> *(Our server status is automatically checked every 5 minutes. Click on the badge for more details).*
 
@@ -26,6 +27,13 @@
 | **Open Think Popup** | <kbd>Ctrl</kbd> + <kbd>Enter</kbd> |
 | **Emotes** | <kbd>1</kbd> to <kbd>6</kbd> for assigned emotes|
 
+### 📝 Office Attendance System [powered by tally.so]
+* 🔘 **Streamlined Interface** — Go up to the marked calendar icon at the front desk to record your time in and time out.
+* 📊 **Centralized Logging** — All responses are collected and sorted in a centralized Google sheet integrated with tally.so.
+
+<a href="https://docs.google.com/spreadsheets/d/1QgdFks8WPE-iUfvaqwp7rZzeO3yxYdpC0UTbCotDOWI/edit?usp=sharing"><img src="https://img.shields.io/badge/View%20Attendance%20Records-Google%20Sheets-2ea44f?style=for-the-badge" align="absmiddle" alt="Attendance Records"></a>
+
+
 ### 🔊 Proximity Communication
 
 * 🔊 **Proximity-Based Connection** — Walk up to anyone, and a bubble will automatically open to connect your audio and video seamlessly.
@@ -33,7 +41,7 @@
 * 🖥️ **Impromptu Desk-side Reviews** — Click on the **screen share button** for quick, spontaneous collaboration within your bubble.
 * 🔒 **Lock your conversation** — Click on the **lock conversation button** to prevent others from joining your bubble.
 
-### 🎥 Meeting Rooms
+### 🎥 Meeting Rooms [powered by VDO.Ninja]
 
 For larger conversations that require more than 4 people, there are custom meeting rooms throughout the office.
 
